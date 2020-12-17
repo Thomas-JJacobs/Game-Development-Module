@@ -953,3 +953,10 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.12.17-13.42.14:308][514]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
 [2020.12.17-13.42.14:347][515]LogPlayLevel: Display: Destroying online subsystem :Context_6
 [2020.12.17-13.42.14:378][515]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2020.12.17-13.43.31:606][113]BlueprintLog: New page: Compile Intro
+[2020.12.17-13.43.31:665][113]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2020.12.17-13.43.32:149][135]LogUObjectHash: Compacting FUObjectHashTables data took   3.88ms
+[2020.12.17-13.43.32:253][135]LogSavePackage: Moving '../../../../../../Users/tomja/Documents/Game-Development-Module/Side_Scroller - Tom Jacobs/Saved/Intro075F87644D26368304C4149C64261900.tmp' to '../../../../../../Users/tomja/Documents/Game-Development-Module/Side_Scroller - Tom Jacobs/Content/Levels/Intro.umap'
+[2020.12.17-13.43.32:288][135]LogFileHelpers: Saving map 'Intro' took 0.176
+[2020.12.17-13.43.32:304][135]AssetCheck: New page: Asset Save: Intro
+[2020.12.17-13.43.32:304][135]LogContentValidation: Display: Validating World /Game/Levels/Intro.Intro
