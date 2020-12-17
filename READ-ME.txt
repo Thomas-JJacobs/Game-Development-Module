@@ -1,0 +1,52 @@
+Game Built by Tom Jacobs - S212046
+Github repository: https://github.com/Thomas-JJacobs/Game-Development-Module
+-------------------------------------------------------------------------------------
+Brief Game Description:
+The games intention and purpose is to be a form of arcade-sidescroller,
+inspired by the games "Run", "Run-2" and "Temple Run".
+
+The game is set in a "dungeon", "castle" environment; where the player is tasked with 
+just one goal... Proceed to the next level in order to escape the castle. This is of-
+course, if it where only as simple as that. During the level you will have to constantly
+out run a armoured wall as well as land on a variety of platforms which individal mechanics
+/mechanisms grow as you proceed through the levels. As a player you will be challenged and 
+aided by the use of a variety of in game actors / components... Good Luck! :)
+
+Play Run 2 at: https://www.coolmathgames.com/0-run-2
+-------------------------------------------------------------------------------------
+Although the game tries to explain the controls as well as introduce new mechanics
+and opponents as you progress though the game; if you are confused read the below:
+
+Controls:
+-Increase Velocity: D
+-Decrease Velocity: A
+-Jump: Space Bar
+
+Watch out for:
+-Slimes
+-Fireballs
+-The "Death Potion"!!!?
+-Moving Platforms... with a variety of directions
+-Green... Possibly... Radioactive lava...
+-Spike pits!
+-The Great Wall!
+-------------------------------------------------------------------------------------
+Asset Resources:
+
+"BlackSpire Studio" (2020) Medieval Art Asset Free. Available at:
+https://blackspirestudio.itch.io/medieval-pixel-art-asset-free
+
+"Comp-3 Interactive" (2020) Free animated potions. Available at:
+https://comp3interactive.itch.io/16-free-animated-potions
+
+"Estúdio Vaca Roxa" (2018) Generic Dungeon Pack. Available at:
+https://bakudas.itch.io/generic-dungeon-pack
+
+"JDWasabi" (2017) 16 Bit sound effects pack. Available at:
+https://jdwasabi.itch.io/8-bit-16-bit-sound-effects-pack
+
+"rvros" (2018) Animated Pixel Adventurer. Available at:
+https://rvros.itch.io/animated-pixel-hero
+
+"XYEzawr" (2020) Free Pixel Effects Pack. Available at:
+https://xyezawr.itch.io/free-pixel-effects-pack-13-fireballs

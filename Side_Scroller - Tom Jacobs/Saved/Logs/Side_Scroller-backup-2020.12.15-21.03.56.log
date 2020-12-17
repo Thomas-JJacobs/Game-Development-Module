@@ -1,0 +1,2020 @@
+﻿Log file open, 12/15/20 20:49:08
+LogInit: Display: Running engine for game: Side_Scroller
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 1.673501
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin MovieRenderPipeline
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.25-CL-13594126
+LogInit: Engine Version: 4.25.1-13594126+++UE4+Release-4.25
+LogInit: Compatible Engine Version: 4.25.0-13144385+++UE4+Release-4.25
+LogInit: Net CL: 13144385
+LogInit: OS: Windows 10 (Release 1909) (), CPU: Intel(R) Core(TM) i5-9300H CPU @ 2.40GHz, GPU: Intel(R) UHD Graphics 630
+LogInit: Compiled (64-bit): Jun  2 2020 02:10:36
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.25
+LogInit: Command Line:  -EpicPortal -epicusername=IUnknown_Entity -epicuserid=d7f5b039f79c4f38bc6eac9af1713b08 -epiclocale=en
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.25/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 26
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 38
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 43
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 7
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 37
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/tomja/Documents/Game-Development-Module/Side_Scroller - Tom Jacobs/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.12.15-20.49.09:132][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.12.15-20.49.09:132][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.12.15-20.49.09:132][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/tomja/Documents/Game-Development-Module/Side_Scroller - Tom Jacobs/Saved/Config/Windows/Engine.ini]
+[2020.12.15-20.49.09:132][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.12.15-20.49.09:132][  0]LogConfig: Setting CVar [[r.MobileHDR:0]]
+[2020.12.15-20.49.09:132][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/tomja/Documents/Game-Development-Module/Side_Scroller - Tom Jacobs/Saved/Config/Windows/Engine.ini]
+[2020.12.15-20.49.09:132][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/tomja/Documents/Game-Development-Module/Side_Scroller - Tom Jacobs/Saved/Config/Windows/Engine.ini]
+[2020.12.15-20.49.09:132][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.12.15-20.49.09:132][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.12.15-20.49.09:132][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.12.15-20.49.09:132][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.12.15-20.49.09:132][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.12.15-20.49.09:132][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.12.15-20.49.09:132][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.12.15-20.49.09:132][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.12.15-20.49.09:132][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.12.15-20.49.09:132][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.12.15-20.49.09:132][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.12.15-20.49.09:132][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.12.15-20.49.09:132][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.12.15-20.49.09:133][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.12.15-20.49.09:133][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/tomja/Documents/Game-Development-Module/Side_Scroller - Tom Jacobs/Saved/Config/Windows/Engine.ini]
+[2020.12.15-20.49.09:133][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.12.15-20.49.09:133][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.12.15-20.49.09:133][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.12.15-20.49.09:133][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.12.15-20.49.09:133][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.12.15-20.49.09:133][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.12.15-20.49.09:133][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.12.15-20.49.09:133][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.12.15-20.49.09:133][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.12.15-20.49.09:133][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.12.15-20.49.09:133][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.12.15-20.49.09:133][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.12.15-20.49.09:133][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.12.15-20.49.09:133][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/tomja/Documents/Game-Development-Module/Side_Scroller - Tom Jacobs/Saved/Config/Windows/Engine.ini]
+[2020.12.15-20.49.09:133][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/tomja/Documents/Game-Development-Module/Side_Scroller - Tom Jacobs/Saved/Config/Windows/Engine.ini]
+[2020.12.15-20.49.09:135][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/tomja/Documents/Game-Development-Module/Side_Scroller - Tom Jacobs/Saved/Config/Windows/Scalability.ini]
+[2020.12.15-20.49.09:135][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.12.15-20.49.09:135][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.12.15-20.49.09:135][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/tomja/Documents/Game-Development-Module/Side_Scroller - Tom Jacobs/Saved/Config/Windows/Scalability.ini]
+[2020.12.15-20.49.09:135][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.12.15-20.49.09:135][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/tomja/Documents/Game-Development-Module/Side_Scroller - Tom Jacobs/Saved/Config/Windows/Scalability.ini]
+[2020.12.15-20.49.09:135][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.12.15-20.49.09:135][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.12.15-20.49.09:136][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.12.15-20.49.09:136][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.12.15-20.49.09:136][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.12.15-20.49.09:136][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.12.15-20.49.09:136][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.12.15-20.49.09:136][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.12.15-20.49.09:136][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.12.15-20.49.09:136][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.12.15-20.49.09:136][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.12.15-20.49.09:136][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.12.15-20.49.09:136][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.12.15-20.49.09:136][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.12.15-20.49.09:136][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.12.15-20.49.09:136][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.12.15-20.49.09:136][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.12.15-20.49.09:136][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.12.15-20.49.09:136][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/tomja/Documents/Game-Development-Module/Side_Scroller - Tom Jacobs/Saved/Config/Windows/Scalability.ini]
+[2020.12.15-20.49.09:136][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.12.15-20.49.09:136][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.12.15-20.49.09:136][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.12.15-20.49.09:136][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.12.15-20.49.09:136][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.12.15-20.49.09:136][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.12.15-20.49.09:136][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.12.15-20.49.09:136][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.12.15-20.49.09:136][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.12.15-20.49.09:136][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.12.15-20.49.09:136][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.12.15-20.49.09:136][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.12.15-20.49.09:136][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.12.15-20.49.09:136][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.12.15-20.49.09:136][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.12.15-20.49.09:136][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.12.15-20.49.09:136][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.12.15-20.49.09:136][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.12.15-20.49.09:136][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.12.15-20.49.09:136][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.12.15-20.49.09:136][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.12.15-20.49.09:136][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.12.15-20.49.09:136][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.12.15-20.49.09:136][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.12.15-20.49.09:136][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.12.15-20.49.09:136][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.12.15-20.49.09:136][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.12.15-20.49.09:136][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.12.15-20.49.09:136][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.12.15-20.49.09:136][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.12.15-20.49.09:136][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/tomja/Documents/Game-Development-Module/Side_Scroller - Tom Jacobs/Saved/Config/Windows/Scalability.ini]
+[2020.12.15-20.49.09:136][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.12.15-20.49.09:136][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.12.15-20.49.09:136][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.12.15-20.49.09:136][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.12.15-20.49.09:136][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.12.15-20.49.09:136][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.12.15-20.49.09:136][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.12.15-20.49.09:136][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.12.15-20.49.09:136][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.12.15-20.49.09:136][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/tomja/Documents/Game-Development-Module/Side_Scroller - Tom Jacobs/Saved/Config/Windows/Scalability.ini]
+[2020.12.15-20.49.09:136][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.12.15-20.49.09:136][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.12.15-20.49.09:136][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.12.15-20.49.09:136][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.12.15-20.49.09:136][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.12.15-20.49.09:136][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.12.15-20.49.09:136][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.12.15-20.49.09:136][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.12.15-20.49.09:136][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.12.15-20.49.09:136][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.12.15-20.49.09:137][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.12.15-20.49.09:137][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2020.12.15-20.49.09:137][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.12.15-20.49.09:137][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.12.15-20.49.09:137][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.12.15-20.49.09:137][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.12.15-20.49.09:137][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.12.15-20.49.09:137][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.12.15-20.49.09:137][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.12.15-20.49.09:137][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.12.15-20.49.09:137][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.12.15-20.49.09:137][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.12.15-20.49.09:137][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.12.15-20.49.09:137][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.12.15-20.49.09:137][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.12.15-20.49.09:137][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.12.15-20.49.09:137][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/tomja/Documents/Game-Development-Module/Side_Scroller - Tom Jacobs/Saved/Config/Windows/Scalability.ini]
+[2020.12.15-20.49.09:137][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.12.15-20.49.09:137][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.12.15-20.49.09:137][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/tomja/Documents/Game-Development-Module/Side_Scroller - Tom Jacobs/Saved/Config/Windows/Scalability.ini]
+[2020.12.15-20.49.09:137][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.12.15-20.49.09:137][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.12.15-20.49.09:137][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.12.15-20.49.09:137][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2020.12.15-20.49.09:137][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2020.12.15-20.49.09:137][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2020.12.15-20.49.09:137][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2020.12.15-20.49.09:137][  0]LogInit: Selected Device Profile: [Windows]
+[2020.12.15-20.49.09:137][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.12.15-20.49.09:137][  0]LogHAL: Display: Platform has ~ 12 GB [12725768192 / 17179869184 / 12], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.12.15-20.49.09:137][  0]LogInit: Going up to parent DeviceProfile []
+[2020.12.15-20.49.09:137][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/tomja/Documents/Game-Development-Module/Side_Scroller - Tom Jacobs/Saved/Config/Windows/Scalability.ini]
+[2020.12.15-20.49.09:137][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.12.15-20.49.09:137][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.12.15-20.49.09:137][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/tomja/Documents/Game-Development-Module/Side_Scroller - Tom Jacobs/Saved/Config/Windows/Scalability.ini]
+[2020.12.15-20.49.09:137][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.12.15-20.49.09:137][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/tomja/Documents/Game-Development-Module/Side_Scroller - Tom Jacobs/Saved/Config/Windows/Scalability.ini]
+[2020.12.15-20.49.09:137][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.12.15-20.49.09:137][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.12.15-20.49.09:137][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.12.15-20.49.09:137][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.12.15-20.49.09:137][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.12.15-20.49.09:137][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.12.15-20.49.09:137][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.12.15-20.49.09:137][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.12.15-20.49.09:137][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.12.15-20.49.09:137][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.12.15-20.49.09:137][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.12.15-20.49.09:137][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.12.15-20.49.09:137][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.12.15-20.49.09:137][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.12.15-20.49.09:137][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.12.15-20.49.09:137][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.12.15-20.49.09:137][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.12.15-20.49.09:137][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.12.15-20.49.09:137][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/tomja/Documents/Game-Development-Module/Side_Scroller - Tom Jacobs/Saved/Config/Windows/Scalability.ini]
+[2020.12.15-20.49.09:137][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.12.15-20.49.09:137][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.12.15-20.49.09:138][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.12.15-20.49.09:138][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.12.15-20.49.09:138][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.12.15-20.49.09:138][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.12.15-20.49.09:138][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.12.15-20.49.09:138][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.12.15-20.49.09:138][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.12.15-20.49.09:138][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.12.15-20.49.09:138][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.12.15-20.49.09:138][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.12.15-20.49.09:138][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.12.15-20.49.09:138][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.12.15-20.49.09:138][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.12.15-20.49.09:138][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.12.15-20.49.09:138][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.12.15-20.49.09:138][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.12.15-20.49.09:138][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.12.15-20.49.09:138][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.12.15-20.49.09:138][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.12.15-20.49.09:138][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.12.15-20.49.09:138][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.12.15-20.49.09:138][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.12.15-20.49.09:138][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.12.15-20.49.09:138][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.12.15-20.49.09:138][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.12.15-20.49.09:138][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.12.15-20.49.09:138][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.12.15-20.49.09:138][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.12.15-20.49.09:138][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/tomja/Documents/Game-Development-Module/Side_Scroller - Tom Jacobs/Saved/Config/Windows/Scalability.ini]
+[2020.12.15-20.49.09:138][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.12.15-20.49.09:138][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.12.15-20.49.09:138][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.12.15-20.49.09:138][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.12.15-20.49.09:138][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.12.15-20.49.09:138][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.12.15-20.49.09:138][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.12.15-20.49.09:138][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.12.15-20.49.09:138][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.12.15-20.49.09:138][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/tomja/Documents/Game-Development-Module/Side_Scroller - Tom Jacobs/Saved/Config/Windows/Scalability.ini]
+[2020.12.15-20.49.09:138][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.12.15-20.49.09:138][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.12.15-20.49.09:138][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.12.15-20.49.09:138][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.12.15-20.49.09:138][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.12.15-20.49.09:138][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.12.15-20.49.09:138][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.12.15-20.49.09:138][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.12.15-20.49.09:138][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.12.15-20.49.09:138][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.12.15-20.49.09:138][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.12.15-20.49.09:138][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2020.12.15-20.49.09:138][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.12.15-20.49.09:138][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.12.15-20.49.09:138][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.12.15-20.49.09:138][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.12.15-20.49.09:138][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.12.15-20.49.09:138][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.12.15-20.49.09:138][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.12.15-20.49.09:138][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.12.15-20.49.09:138][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.12.15-20.49.09:138][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.12.15-20.49.09:138][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.12.15-20.49.09:138][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.12.15-20.49.09:138][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.12.15-20.49.09:138][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.12.15-20.49.09:138][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/tomja/Documents/Game-Development-Module/Side_Scroller - Tom Jacobs/Saved/Config/Windows/Scalability.ini]
+[2020.12.15-20.49.09:139][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.12.15-20.49.09:139][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.12.15-20.49.09:139][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/tomja/Documents/Game-Development-Module/Side_Scroller - Tom Jacobs/Saved/Config/Windows/Scalability.ini]
+[2020.12.15-20.49.09:139][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.12.15-20.49.09:139][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.12.15-20.49.09:139][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.12.15-20.49.09:139][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2020.12.15-20.49.09:139][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2020.12.15-20.49.09:139][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2020.12.15-20.49.09:139][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2020.12.15-20.49.09:139][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.12.15-20.49.09:139][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.12.15-20.49.09:139][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.12.15-20.49.09:139][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2020.12.15-20.49.09:139][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/tomja/Documents/Game-Development-Module/Side_Scroller - Tom Jacobs/Saved/Config/Windows/Engine.ini]
+[2020.12.15-20.49.09:139][  0]LogInit: Computer: LAPTOP-EIF8TTVH
+[2020.12.15-20.49.09:139][  0]LogInit: User: tomja
+[2020.12.15-20.49.09:139][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.12.15-20.49.09:139][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.12.15-20.49.09:139][  0]LogMemory: Memory total: Physical=11.9GB (12GB approx)
+[2020.12.15-20.49.09:139][  0]LogMemory: Platform Memory Stats for Windows
+[2020.12.15-20.49.09:139][  0]LogMemory: Process Physical Memory: 114.56 MB used, 114.56 MB peak
+[2020.12.15-20.49.09:139][  0]LogMemory: Process Virtual Memory: 96.27 MB used, 96.27 MB peak
+[2020.12.15-20.49.09:139][  0]LogMemory: Physical Memory: 6102.61 MB used,  6033.63 MB free, 12136.24 MB total
+[2020.12.15-20.49.09:139][  0]LogMemory: Virtual Memory: 5144.76 MB used,  134212584.00 MB free, 134217728.00 MB total
+[2020.12.15-20.49.09:147][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.12.15-20.49.09:188][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2020.12.15-20.49.09:189][  0]LogInit: Using OS detected language (en-GB).
+[2020.12.15-20.49.09:189][  0]LogInit: Using OS detected locale (en-GB).
+[2020.12.15-20.49.09:193][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2020.12.15-20.49.09:404][  0]LogInit: Setting process to per monitor DPI aware
+[2020.12.15-20.49.09:441][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.12.15-20.49.09:441][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.12.15-20.49.09:617][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.12.15-20.49.09:617][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.12.15-20.49.09:617][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.12.15-20.49.09:617][  0]LogD3D11RHI: D3D11 adapters:
+[2020.12.15-20.49.09:700][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1650' (Feature Level 11_0)
+[2020.12.15-20.49.09:700][  0]LogD3D11RHI:       3962/0/6068 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.12.15-20.49.09:728][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2020.12.15-20.49.09:728][  0]LogD3D11RHI:       128/0/6068 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2020.12.15-20.49.09:732][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.12.15-20.49.09:732][  0]LogD3D11RHI:       0/0/6068 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.12.15-20.49.09:732][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.12.15-20.49.09:773][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.12.15-20.49.09:773][  0]LogD3D11RHI:     GPU DeviceId: 0x1f91 (for the marketing name, search the web for "GPU Device Id")
+[2020.12.15-20.49.09:773][  0]LogWindows: EnumDisplayDevices:
+[2020.12.15-20.49.09:773][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:1 D:1)
+[2020.12.15-20.49.09:774][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2020.12.15-20.49.09:774][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2020.12.15-20.49.09:774][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1650' (P:0 D:0)
+[2020.12.15-20.49.09:775][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter 
+[2020.12.15-20.49.09:775][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1650
+[2020.12.15-20.49.09:775][  0]LogD3D11RHI:   Driver Version: 451.67 (internal:27.21.14.5167, unified:451.67)
+[2020.12.15-20.49.09:775][  0]LogD3D11RHI:      Driver Date: 7-5-2020
+[2020.12.15-20.49.09:775][  0]LogRHI: Texture pool is 2773 MB (70% of 3962 MB)
+[2020.12.15-20.49.09:834][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2020.12.15-20.49.09:837][  0]LogD3D11RHI: [Aftermath] Enabled and primed
+[2020.12.15-20.49.09:837][  0]LogD3D11RHI: Async texture creation enabled
+[2020.12.15-20.49.09:837][  0]LogD3D11RHI: Array index from any shader is supported
+[2020.12.15-20.49.09:860][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.12.15-20.49.10:204][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.12.15-20.49.10:236][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.12.15-20.49.10:236][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.12.15-20.49.10:236][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.12.15-20.49.10:236][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.12.15-20.49.10:236][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.12.15-20.49.10:236][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.12.15-20.49.10:236][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.12.15-20.49.10:236][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.12.15-20.49.10:236][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.12.15-20.49.10:236][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.12.15-20.49.10:269][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.12.15-20.49.10:269][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.12.15-20.49.10:287][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2020.12.15-20.49.10:299][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.12.15-20.49.10:310][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.12.15-20.49.10:321][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.12.15-20.49.10:332][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.12.15-20.49.10:343][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.12.15-20.49.10:357][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.12.15-20.49.10:392][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.12.15-20.49.10:393][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.12.15-20.49.10:417][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.12.15-20.49.10:417][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.12.15-20.49.10:428][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.12.15-20.49.10:439][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.12.15-20.49.10:450][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.12.15-20.49.10:460][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.12.15-20.49.10:460][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.12.15-20.49.10:470][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.12.15-20.49.10:537][  0]LogShaderCompilers: Guid format shader working directory is -44 characters bigger than the processId version (../../../../../../Users/tomja/Documents/Game-Development-Module/Side_Scroller - Tom Jacobs/Intermediate/Shaders/WorkingDirectory/8596/).
+[2020.12.15-20.49.10:537][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/tomja/AppData/Local/Temp/UnrealShaderWorkingDir/E0285DC6412EF8E30427E3ACA1C6D837/'.
+[2020.12.15-20.49.10:538][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.12.15-20.49.10:538][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.12.15-20.49.10:538][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.12.15-20.49.11:339][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.12.15-20.49.11:390][  0]LogDerivedDataCache: Loaded boot cache 0.05s 75MB C:/Users/tomja/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2020.12.15-20.49.11:390][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/tomja/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc
+[2020.12.15-20.49.11:390][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/tomja/Documents/Game-Development-Module/Side_Scroller - Tom Jacobs/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.12.15-20.49.11:390][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.12.15-20.49.11:390][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/tomja/Documents/Game-Development-Module/Side_Scroller - Tom Jacobs/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.12.15-20.49.11:390][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.12.15-20.49.11:402][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.12.15-20.49.11:402][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.12.15-20.49.11:402][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.12.15-20.49.11:403][  0]LogDerivedDataCache: Using Local data cache path C:/Users/tomja/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.12.15-20.49.11:403][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.12.15-20.49.11:403][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.12.15-20.49.11:456][  0]LogSlate: Using FreeType 2.10.0
+[2020.12.15-20.49.11:457][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.12.15-20.49.11:482][  0]LogAssetRegistry: FAssetRegistry took 0.0027 seconds to start up
+[2020.12.15-20.49.11:718][  0]LogInit: Selected Device Profile: [Windows]
+[2020.12.15-20.49.11:851][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.12.15-20.49.11:851][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.12.15-20.49.11:851][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.12.15-20.49.11:851][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.12.15-20.49.11:851][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.12.15-20.49.11:865][  0]LogNetVersion: Side_Scroller 1.0.0, NetCL: 13144385, EngineNetVer: 14, GameNetVer: 0 (Checksum: 3795683916)
+[2020.12.15-20.49.12:301][  0]LogAISub: UAISubsystem::UAISubsystem AISubsystem (000001B78EBA0380), frame # 0
+[2020.12.15-20.49.12:301][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001B78EABEAC0), frame # 0
+[2020.12.15-20.49.12:303][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001B78EB44A00), frame # 0
+[2020.12.15-20.49.12:390][  0]LogPackageLocalizationCache: Processed 19 localized package path(s) for 1 prioritized culture(s) in 0.080445 seconds
+[2020.12.15-20.49.12:396][  0]LogUObjectArray: 15917 objects as part of root set at end of initial load.
+[2020.12.15-20.49.12:396][  0]LogUObjectAllocator: 3965568 out of 0 bytes used by permanent object pool.
+[2020.12.15-20.49.12:396][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.12.15-20.49.12:746][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.12.15-20.49.12:751][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.12.15-20.49.12:829][  0]SourceControl: Source control is disabled
+[2020.12.15-20.49.12:829][  0]SourceControl: Source control is disabled
+[2020.12.15-20.49.12:832][  0]SourceControl: Source control is disabled
+[2020.12.15-20.49.12:835][  0]SourceControl: Source control is disabled
+[2020.12.15-20.49.12:841][  0]SourceControl: Source control is disabled
+[2020.12.15-20.49.13:094][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.12.15-20.49.13:115][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.12.15-20.49.13:115][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.12.15-20.49.13:166][  0]LogOcInput: OculusInput pre-init called
+[2020.12.15-20.49.13:177][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.12.15-20.49.13:177][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.12.15-20.49.13:238][  0]LogEngine: Initializing Engine...
+[2020.12.15-20.49.13:240][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.12.15-20.49.13:240][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2020.12.15-20.49.13:241][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.12.15-20.49.13:357][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.12.15-20.49.13:365][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.12.15-20.49.13:365][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001B790F4BC00), frame # 0
+[2020.12.15-20.49.13:365][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001B790FC1440), frame # 0
+[2020.12.15-20.49.13:384][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.15-20.49.13:384][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.15-20.49.13:384][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.15-20.49.13:384][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.15-20.49.13:384][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.15-20.49.13:384][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.15-20.49.13:384][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.15-20.49.13:384][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.15-20.49.13:384][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.15-20.49.13:384][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.15-20.49.13:396][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.15-20.49.13:396][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.12.15-20.49.13:592][  0]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2020.12.15-20.49.13:594][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.12.15-20.49.13:596][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.12.15-20.49.13:596][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.12.15-20.49.13:597][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.12.15-20.49.13:598][  0]LogInit: FAudioDevice initialized.
+[2020.12.15-20.49.13:599][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.12.15-20.49.13:658][  0]LogDerivedDataCache: Saved boot cache 0.06s 75MB C:/Users/tomja/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2020.12.15-20.49.13:662][  0]LogInit: Texture streaming: Enabled
+[2020.12.15-20.49.13:678][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.12.15-20.49.13:679][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.12.15-20.49.13:680][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.12.15-20.49.13:736][  0]LogInit: Transaction tracking system initialized
+[2020.12.15-20.49.13:760][  0]BlueprintLog: New page: Editor Load
+[2020.12.15-20.49.13:828][  0]LocalizationService: Localization service is disabled
+[2020.12.15-20.49.14:004][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.12.15-20.49.14:004][  0]LogCook: Display: Mobile HDR setting 0
+[2020.12.15-20.49.14:140][  0]LogFileCache: Scanning file cache for directory 'C:/Users/tomja/Documents/Game-Development-Module/Side_Scroller - Tom Jacobs/Content/' took 0.01s
+[2020.12.15-20.49.14:363][  0]SourceControl: Source control is disabled
+[2020.12.15-20.49.14:363][  0]LogUnrealEdMisc: Loading editor; pre map load, took 8.473
+[2020.12.15-20.49.14:369][  0]LightingResults: New page: Lighting Build
+[2020.12.15-20.49.14:370][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.12.15-20.49.14:370][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.15-20.49.14:370][  0]MapCheck: New page: Map Check
+[2020.12.15-20.49.14:370][  0]LightingResults: New page: Lighting Build
+[2020.12.15-20.49.14:380][  0]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001B790F4BC00), frame # 0
+[2020.12.15-20.49.14:381][  0]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001B790FC1440), frame # 0
+[2020.12.15-20.49.14:381][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2020.12.15-20.49.14:766][  0]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2020.12.15-20.49.14:766][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001B79BE0A200), frame # 0
+[2020.12.15-20.49.14:766][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001B79BEC8B80), frame # 0
+[2020.12.15-20.49.14:771][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.12.15-20.49.14:782][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2020.12.15-20.49.14:782][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.12.15-20.49.14:783][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.153ms to complete.
+[2020.12.15-20.49.14:783][  0]LogFileHelpers: Loading map '2DSideScrollerExampleMap' took 0.420
+[2020.12.15-20.49.14:784][  0]LogUnrealEdMisc: Total Editor Startup Time, took 8.895
+[2020.12.15-20.49.15:018][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.15-20.49.15:034][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.15-20.49.15:048][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.15-20.49.15:063][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.15-20.49.15:093][  0]LogCollectionManager: Loaded 0 collections in 0.004046 seconds
+[2020.12.15-20.49.15:146][  0]LogFileCache: Scanning file cache for directory 'C:/Users/tomja/Documents/Game-Development-Module/Side_Scroller - Tom Jacobs/Saved/Collections/' took 0.00s
+[2020.12.15-20.49.15:146][  0]LogFileCache: Scanning file cache for directory 'C:/Users/tomja/Documents/Game-Development-Module/Side_Scroller - Tom Jacobs/Content/Developers/tomja/Collections/' took 0.00s
+[2020.12.15-20.49.15:146][  0]LogFileCache: Scanning file cache for directory 'C:/Users/tomja/Documents/Game-Development-Module/Side_Scroller - Tom Jacobs/Content/Collections/' took 0.00s
+[2020.12.15-20.49.15:146][  0]LogContentBrowser: Native class hierarchy populated in 0.0195 seconds. Added 3427 classes and 821 folders.
+[2020.12.15-20.49.15:160][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2020.12.15-20.49.15:696][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.12.15-20.49.15:702][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 0 folders.
+[2020.12.15-20.49.15:826][  0]LogSlate: Took 0.000187 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.12.15-20.49.15:829][  0]LogSlate: Took 0.000151 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.12.15-20.49.15:842][  0]LogSlate: Took 0.007164 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.12.15-20.49.15:986][  0]LogRenderer: Reallocating scene render targets to support 916x408 Format 10 NumSamples 1 (Frame:1).
+[2020.12.15-20.49.16:053][  0]LogSlate: Took 0.006915 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.12.15-20.49.16:106][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.12.15-20.49.16:106][  0]LogLoad: (Engine Initialization) Total time: 10.22 seconds
+[2020.12.15-20.49.16:107][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.12.15-20.49.16:163][  0]LogAssetRegistry: Asset discovery search completed in 4.6815 seconds
+[2020.12.15-20.49.16:167][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2020.12.15-20.49.16:169][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.12.15-20.49.17:478][  4]LogSlate: Took 0.000450 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.12.15-20.50.16:852][975]LogRenderer: Reallocating scene render targets to support 916x436 Format 10 NumSamples 1 (Frame:840).
+[2020.12.15-20.50.39:116][243]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Level34.Level34
+[2020.12.15-20.50.39:129][243]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2020.12.15-20.50.39:130][243]Cmd: MAP LOAD FILE="../../../../../../Users/tomja/Documents/Game-Development-Module/Side_Scroller - Tom Jacobs/Content/Levels/Level34.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.12.15-20.50.39:131][243]LightingResults: New page: Lighting Build
+[2020.12.15-20.50.39:131][243]LoadErrors: New page: Loading map: Level34.umap
+[2020.12.15-20.50.39:133][243]LogWorld: UWorld::CleanupWorld for 2DSideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.12.15-20.50.39:133][243]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.15-20.50.39:133][243]MapCheck: New page: Map Check
+[2020.12.15-20.50.39:133][243]LightingResults: New page: Lighting Build
+[2020.12.15-20.50.39:141][243]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001B79BE0A200), frame # 2243
+[2020.12.15-20.50.39:141][243]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001B79BEC8B80), frame # 2243
+[2020.12.15-20.50.39:142][243]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2020.12.15-20.50.39:155][243]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.12.15-20.50.39:155][243]LogAIModule: Creating AISystem for world Level34
+[2020.12.15-20.50.39:155][243]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001B79BE0A800), frame # 2243
+[2020.12.15-20.50.39:155][243]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001B7AB70F100), frame # 2243
+[2020.12.15-20.50.39:170][243]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2020.12.15-20.50.39:200][243]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.12.15-20.50.39:200][243]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.138ms to complete.
+[2020.12.15-20.50.39:200][243]LogFileHelpers: Loading map 'Level34' took 0.070
+[2020.12.15-20.51.59:488][824]LogTemp: Repeating last play command: Selected Viewport
+[2020.12.15-20.51.59:523][824]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.12.15-20.51.59:524][824]PIE: New page: PIE session: Level34 (15 Dec 2020, 20:51:59)
+[2020.12.15-20.51.59:526][824]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.12.15-20.51.59:528][824]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2020.12.15-20.51.59:529][824]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level34
+[2020.12.15-20.51.59:553][824]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024417s)
+[2020.12.15-20.51.59:555][824]LogAIModule: Creating AISystem for world Level34
+[2020.12.15-20.51.59:555][824]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001B7AACD1E00), frame # 2824
+[2020.12.15-20.51.59:556][824]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001B797D28E00), frame # 2824
+[2020.12.15-20.51.59:556][824]LogPlayLevel: PIE: World Init took: (0.001979s)
+[2020.12.15-20.51.59:556][824]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level34.Level34 to /Game/Levels/UEDPIE_0_Level34.Level34 (0.027145s)
+[2020.12.15-20.51.59:575][824]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2020.12.15-20.51.59:577][824]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.15-20.51.59:577][824]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.15-20.51.59:577][824]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.15-20.51.59:577][824]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.15-20.51.59:577][824]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.15-20.51.59:577][824]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.15-20.51.59:577][824]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.15-20.51.59:577][824]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.15-20.51.59:578][824]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.15-20.51.59:578][824]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.15-20.51.59:585][824]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.15-20.51.59:585][824]LogAudioMixer: Display: 1: FrontRight
+[2020.12.15-20.51.59:618][824]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2020.12.15-20.51.59:618][824]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.12.15-20.51.59:618][824]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.12.15-20.51.59:618][824]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.12.15-20.51.59:619][824]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.12.15-20.51.59:649][824]LogInit: FAudioDevice initialized.
+[2020.12.15-20.51.59:663][824]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.12.15-20.51.59:684][824]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level34.Level34 up for play (max tick rate 60) at 2020.12.15-20.51.59
+[2020.12.15-20.51.59:686][824]LogWorld: Bringing up level for play took: 0.011730
+[2020.12.15-20.51.59:686][824]LogOnline: OSS: Creating online subsystem instance for: :Context_1
+[2020.12.15-20.51.59:694][824]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2020.12.15-20.51.59:704][824]PIE: Server logged in
+[2020.12.15-20.51.59:706][824]PIE: Play in editor total start time 0.185 seconds.
+[2020.12.15-20.52.00:852][891]LogBlueprintUserMessages: [MainCharacter_C_0] A Down
+[2020.12.15-20.52.02:256][975]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-20.52.03:163][ 27]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.15-20.52.03:164][ 27]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level34
+[2020.12.15-20.52.03:164][ 27]LogWorld: UWorld::CleanupWorld for Level34, bSessionEnded=true, bCleanupResources=true
+[2020.12.15-20.52.03:165][ 27]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.15-20.52.03:172][ 27]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.15-20.52.03:173][ 27]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.15-20.52.03:185][ 27]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.15-20.52.03:209][ 27]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001B797D28E00), frame # 3027
+[2020.12.15-20.52.03:209][ 27]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001B7AACD1E00), frame # 3027
+[2020.12.15-20.52.03:210][ 27]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2020.12.15-20.52.03:245][ 28]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2020.12.15-20.52.16:872][694]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Level_Sprites/Character/MainCharacter.MainCharacter
+[2020.12.15-20.52.18:430][694]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0013 seconds. Added 125 classes and 0 folders.
+[2020.12.15-20.52.21:334][694]LogSlate: Took 0.012496 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.12.15-20.52.22:010][695]LogSlate: Took 0.014465 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.12.15-20.54.06:961][653]LogEditorTransaction: Undo Move Node
+[2020.12.15-20.54.10:243][797]LogEditorTransaction: Undo Move Node
+[2020.12.15-20.54.12:009][858]LogEditorTransaction: Undo Paste clipboard contents
+[2020.12.15-20.54.37:877][208]LogEditorTransaction: Undo Move Nodes
+[2020.12.15-20.54.40:071][288]LogEditorTransaction: Undo Paste clipboard contents
+[2020.12.15-20.55.15:010][273]BlueprintLog: New page: Compile MainCharacter
+[2020.12.15-20.55.15:235][273]LogUObjectHash: Compacting FUObjectHashTables data took   6.10ms
+[2020.12.15-20.55.15:664][273]LogSlate: Took 0.019393 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2020.12.15-20.55.15:887][274]LogSavePackage: Moving '../../../../../../Users/tomja/Documents/Game-Development-Module/Side_Scroller - Tom Jacobs/Saved/MainCharacter575FA3554D9B9AF3B6143B848FB7630A.tmp' to '../../../../../../Users/tomja/Documents/Game-Development-Module/Side_Scroller - Tom Jacobs/Content/Level_Sprites/Character/MainCharacter.uasset'
+[2020.12.15-20.55.15:906][274]AssetCheck: New page: Asset Save: MainCharacter
+[2020.12.15-20.55.15:906][274]LogContentValidation: Display: Validating Blueprint /Game/Level_Sprites/Character/MainCharacter.MainCharacter
+[2020.12.15-20.55.39:861][626]BlueprintLog: New page: Compile MainCharacter
+[2020.12.15-20.55.39:887][626]LogBlueprint: Error: [Compiler MainCharacter] The type of  Object  is undetermined.  Connect something to  Cast To TheWalls  to imply a specific type.
+[2020.12.15-20.55.39:889][626]LogBlueprint: Error: [Compiler MainCharacter] The current value of the ' Object ' pin is invalid: Unsupported type Wildcard on pin Object
+[2020.12.15-20.55.39:935][626]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2020.12.15-20.55.41:016][675]LogSavePackage: Moving '../../../../../../Users/tomja/Documents/Game-Development-Module/Side_Scroller - Tom Jacobs/Saved/MainCharacterA7C2EA5B41519F24268C80B2FA36C092.tmp' to '../../../../../../Users/tomja/Documents/Game-Development-Module/Side_Scroller - Tom Jacobs/Content/Level_Sprites/Character/MainCharacter.uasset'
+[2020.12.15-20.55.41:034][675]AssetCheck: New page: Asset Save: MainCharacter
+[2020.12.15-20.55.41:034][675]LogContentValidation: Display: Validating Blueprint /Game/Level_Sprites/Character/MainCharacter.MainCharacter
+[2020.12.15-20.56.54:002][402]BlueprintLog: New page: Compile MainCharacter
+[2020.12.15-20.56.54:029][402]LogBlueprint: Error: [Compiler MainCharacter] The type of  Object  is undetermined.  Connect something to  Cast To TheWalls  to imply a specific type.
+[2020.12.15-20.56.54:031][402]LogBlueprint: Error: [Compiler MainCharacter] The current value of the ' Object ' pin is invalid: Unsupported type Wildcard on pin Object
+[2020.12.15-20.56.54:080][402]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2020.12.15-20.56.55:008][436]LogSavePackage: Moving '../../../../../../Users/tomja/Documents/Game-Development-Module/Side_Scroller - Tom Jacobs/Saved/MainCharacter780285B048D243D1A5CA24B1BFF2E791.tmp' to '../../../../../../Users/tomja/Documents/Game-Development-Module/Side_Scroller - Tom Jacobs/Content/Level_Sprites/Character/MainCharacter.uasset'
+[2020.12.15-20.56.55:026][436]AssetCheck: New page: Asset Save: MainCharacter
+[2020.12.15-20.56.55:026][436]LogContentValidation: Display: Validating Blueprint /Game/Level_Sprites/Character/MainCharacter.MainCharacter
+[2020.12.15-20.57.01:070][776]BlueprintLog: New page: Compile MainCharacter
+[2020.12.15-20.57.01:129][776]LogBlueprint: Error: [Compiler MainCharacter] The type of  Object  is undetermined.  Connect something to  Cast To TheWalls  to imply a specific type.
+[2020.12.15-20.57.01:135][776]LogBlueprint: Error: [Compiler MainCharacter] The current value of the ' Object ' pin is invalid: Unsupported type Wildcard on pin Object
+[2020.12.15-20.57.01:240][776]LogUObjectHash: Compacting FUObjectHashTables data took   6.67ms
+[2020.12.15-20.57.02:051][784]LogSavePackage: Moving '../../../../../../Users/tomja/Documents/Game-Development-Module/Side_Scroller - Tom Jacobs/Saved/MainCharacterA1548A9B44041D964CA464ADCBE259C6.tmp' to '../../../../../../Users/tomja/Documents/Game-Development-Module/Side_Scroller - Tom Jacobs/Content/Level_Sprites/Character/MainCharacter.uasset'
+[2020.12.15-20.57.02:067][784]AssetCheck: New page: Asset Save: MainCharacter
+[2020.12.15-20.57.02:067][784]LogContentValidation: Display: Validating Blueprint /Game/Level_Sprites/Character/MainCharacter.MainCharacter
+[2020.12.15-20.57.11:535][346]LogEditorTransaction: Undo Create Pin Link
+[2020.12.15-20.57.12:134][355]LogEditorTransaction: Undo Rename Variable
+[2020.12.15-20.57.12:956][388]LogEditorTransaction: Undo Move Node
+[2020.12.15-20.57.13:741][426]LogEditorTransaction: Undo Promote To Variable
+[2020.12.15-20.57.19:248][727]LogSavePackage: Moving '../../../../../../Users/tomja/Documents/Game-Development-Module/Side_Scroller - Tom Jacobs/Saved/MainCharacter03AA02BD4CE4ED0B89BD70A658081F4E.tmp' to '../../../../../../Users/tomja/Documents/Game-Development-Module/Side_Scroller - Tom Jacobs/Content/Level_Sprites/Character/MainCharacter.uasset'
+[2020.12.15-20.57.19:267][727]AssetCheck: New page: Asset Save: MainCharacter
+[2020.12.15-20.57.19:267][727]LogContentValidation: Display: Validating Blueprint /Game/Level_Sprites/Character/MainCharacter.MainCharacter
+[2020.12.15-20.58.41:390][185]BlueprintLog: New page: Compile MainCharacter
+[2020.12.15-20.58.41:456][185]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2020.12.15-20.58.43:028][266]LogSavePackage: Moving '../../../../../../Users/tomja/Documents/Game-Development-Module/Side_Scroller - Tom Jacobs/Saved/MainCharacter47E9EA254E195FF163A4D2B7C60139F7.tmp' to '../../../../../../Users/tomja/Documents/Game-Development-Module/Side_Scroller - Tom Jacobs/Content/Level_Sprites/Character/MainCharacter.uasset'
+[2020.12.15-20.58.43:043][266]AssetCheck: New page: Asset Save: MainCharacter
+[2020.12.15-20.58.43:043][266]LogContentValidation: Display: Validating Blueprint /Game/Level_Sprites/Character/MainCharacter.MainCharacter
+[2020.12.15-20.58.48:422][570]LogSavePackage: Moving '../../../../../../Users/tomja/Documents/Game-Development-Module/Side_Scroller - Tom Jacobs/Saved/MainCharacterAE2367214469B26AAD1F7ABC47127AAB.tmp' to '../../../../../../Users/tomja/Documents/Game-Development-Module/Side_Scroller - Tom Jacobs/Content/Level_Sprites/Character/MainCharacter.uasset'
+[2020.12.15-20.58.48:437][570]AssetCheck: New page: Asset Save: MainCharacter
+[2020.12.15-20.58.48:437][570]LogContentValidation: Display: Validating Blueprint /Game/Level_Sprites/Character/MainCharacter.MainCharacter
+[2020.12.15-20.59.16:287][191]BlueprintLog: New page: Compile MainCharacter
+[2020.12.15-20.59.16:350][191]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2020.12.15-21.00.29:734][374]LogEditorTransaction: Undo Delete current selection
+[2020.12.15-21.00.49:825][416]BlueprintLog: New page: Compile MainCharacter
+[2020.12.15-21.00.49:846][416]LogBlueprint: Error: [Compiler MainCharacter] The type of  Object  is undetermined.  Connect something to  Cast To TheWalls  to imply a specific type.
+[2020.12.15-21.00.49:848][416]LogBlueprint: Error: [Compiler MainCharacter] The current value of the ' Object ' pin is invalid: Unsupported type Object Wildcard on pin Object
+[2020.12.15-21.00.49:889][416]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2020.12.15-21.00.50:520][438]LogSavePackage: Moving '../../../../../../Users/tomja/Documents/Game-Development-Module/Side_Scroller - Tom Jacobs/Saved/MainCharacter83D04D5741DE582CF8A6E8934B5D04FF.tmp' to '../../../../../../Users/tomja/Documents/Game-Development-Module/Side_Scroller - Tom Jacobs/Content/Level_Sprites/Character/MainCharacter.uasset'
+[2020.12.15-21.00.50:535][438]AssetCheck: New page: Asset Save: MainCharacter
+[2020.12.15-21.00.50:535][438]LogContentValidation: Display: Validating Blueprint /Game/Level_Sprites/Character/MainCharacter.MainCharacter
+[2020.12.15-21.00.56:587][788]BlueprintLog: New page: Compile MainCharacter
+[2020.12.15-21.00.56:651][788]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2020.12.15-21.00.57:966][851]LogSavePackage: Moving '../../../../../../Users/tomja/Documents/Game-Development-Module/Side_Scroller - Tom Jacobs/Saved/MainCharacterA9D12605497A9FE1F85A6FAE13229E50.tmp' to '../../../../../../Users/tomja/Documents/Game-Development-Module/Side_Scroller - Tom Jacobs/Content/Level_Sprites/Character/MainCharacter.uasset'
+[2020.12.15-21.00.57:982][851]AssetCheck: New page: Asset Save: MainCharacter
+[2020.12.15-21.00.57:983][851]LogContentValidation: Display: Validating Blueprint /Game/Level_Sprites/Character/MainCharacter.MainCharacter
+[2020.12.15-21.01.00:434][995]LogTemp: Repeating last play command: Selected Viewport
+[2020.12.15-21.01.00:453][995]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.12.15-21.01.00:453][995]PIE: New page: PIE session: Level34 (15 Dec 2020, 21:01:00)
+[2020.12.15-21.01.00:453][995]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level34
+[2020.12.15-21.01.00:458][995]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004289s)
+[2020.12.15-21.01.00:458][995]LogAIModule: Creating AISystem for world Level34
+[2020.12.15-21.01.00:459][995]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001B80B762200), frame # 31995
+[2020.12.15-21.01.00:459][995]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001B7CAAC65C0), frame # 31995
+[2020.12.15-21.01.00:459][995]LogPlayLevel: PIE: World Init took: (0.001141s)
+[2020.12.15-21.01.00:459][995]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level34.Level34 to /Game/Levels/UEDPIE_0_Level34.Level34 (0.005540s)
+[2020.12.15-21.01.00:483][995]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2020.12.15-21.01.00:484][995]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.15-21.01.00:484][995]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.15-21.01.00:484][995]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.15-21.01.00:484][995]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.15-21.01.00:484][995]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.15-21.01.00:484][995]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.15-21.01.00:484][995]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.15-21.01.00:484][995]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.15-21.01.00:485][995]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.15-21.01.00:485][995]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.15-21.01.00:489][995]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.15-21.01.00:489][995]LogAudioMixer: Display: 1: FrontRight
+[2020.12.15-21.01.00:509][995]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2020.12.15-21.01.00:509][995]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.12.15-21.01.00:509][995]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.12.15-21.01.00:509][995]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.12.15-21.01.00:509][995]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.12.15-21.01.00:525][995]LogInit: FAudioDevice initialized.
+[2020.12.15-21.01.00:532][995]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.12.15-21.01.00:539][995]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level34.Level34 up for play (max tick rate 60) at 2020.12.15-21.01.00
+[2020.12.15-21.01.00:539][995]LogWorld: Bringing up level for play took: 0.005088
+[2020.12.15-21.01.00:539][995]LogOnline: OSS: Creating online subsystem instance for: :Context_3
+[2020.12.15-21.01.00:551][995]PIE: Server logged in
+[2020.12.15-21.01.00:552][995]PIE: Play in editor total start time 0.1 seconds.
+[2020.12.15-21.01.01:348][ 43]LogBlueprintUserMessages: [MainCharacter_C_0] A Down
+[2020.12.15-21.01.02:448][109]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.01.03:182][153]LogBlueprintUserMessages: [MainCharacter_C_0] D Down
+[2020.12.15-21.01.03:812][188]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.15-21.01.03:812][188]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level34
+[2020.12.15-21.01.03:812][188]LogWorld: UWorld::CleanupWorld for Level34, bSessionEnded=true, bCleanupResources=true
+[2020.12.15-21.01.03:813][188]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.15-21.01.03:829][188]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.15-21.01.03:836][188]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.15-21.01.03:940][188]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.15-21.01.03:941][188]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001B7CAAC65C0), frame # 32188
+[2020.12.15-21.01.03:941][188]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001B80B762200), frame # 32188
+[2020.12.15-21.01.03:947][188]LogUObjectHash: Compacting FUObjectHashTables data took   5.18ms
+[2020.12.15-21.01.04:017][189]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2020.12.15-21.01.53:009][ 31]BlueprintLog: New page: Compile MainCharacter
+[2020.12.15-21.01.53:073][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2020.12.15-21.01.53:694][ 52]LogSavePackage: Moving '../../../../../../Users/tomja/Documents/Game-Development-Module/Side_Scroller - Tom Jacobs/Saved/MainCharacterD1A39A4445E46838EB8AEFA78E02DA9D.tmp' to '../../../../../../Users/tomja/Documents/Game-Development-Module/Side_Scroller - Tom Jacobs/Content/Level_Sprites/Character/MainCharacter.uasset'
+[2020.12.15-21.01.53:710][ 52]AssetCheck: New page: Asset Save: MainCharacter
+[2020.12.15-21.01.53:710][ 52]LogContentValidation: Display: Validating Blueprint /Game/Level_Sprites/Character/MainCharacter.MainCharacter
+[2020.12.15-21.01.55:338][148]LogTemp: Repeating last play command: Selected Viewport
+[2020.12.15-21.01.55:355][148]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.12.15-21.01.55:355][148]PIE: New page: PIE session: Level34 (15 Dec 2020, 21:01:55)
+[2020.12.15-21.01.55:355][148]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level34
+[2020.12.15-21.01.55:360][148]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004257s)
+[2020.12.15-21.01.55:361][148]LogAIModule: Creating AISystem for world Level34
+[2020.12.15-21.01.55:361][148]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001B80B763200), frame # 35148
+[2020.12.15-21.01.55:361][148]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001B80579DE40), frame # 35148
+[2020.12.15-21.01.55:361][148]LogPlayLevel: PIE: World Init took: (0.001185s)
+[2020.12.15-21.01.55:361][148]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level34.Level34 to /Game/Levels/UEDPIE_0_Level34.Level34 (0.005558s)
+[2020.12.15-21.01.55:386][148]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2020.12.15-21.01.55:387][148]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.15-21.01.55:387][148]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.15-21.01.55:387][148]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.15-21.01.55:387][148]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.15-21.01.55:387][148]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.15-21.01.55:387][148]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.15-21.01.55:387][148]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.15-21.01.55:387][148]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.15-21.01.55:388][148]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.15-21.01.55:388][148]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.15-21.01.55:391][148]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.15-21.01.55:391][148]LogAudioMixer: Display: 1: FrontRight
+[2020.12.15-21.01.55:408][148]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2020.12.15-21.01.55:408][148]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.12.15-21.01.55:408][148]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.12.15-21.01.55:408][148]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.12.15-21.01.55:409][148]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.12.15-21.01.55:424][148]LogInit: FAudioDevice initialized.
+[2020.12.15-21.01.55:430][148]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.12.15-21.01.55:436][148]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level34.Level34 up for play (max tick rate 60) at 2020.12.15-21.01.55
+[2020.12.15-21.01.55:437][148]LogWorld: Bringing up level for play took: 0.005184
+[2020.12.15-21.01.55:437][148]LogOnline: OSS: Creating online subsystem instance for: :Context_4
+[2020.12.15-21.01.55:444][148]PIE: Server logged in
+[2020.12.15-21.01.55:444][148]PIE: Play in editor total start time 0.09 seconds.
+[2020.12.15-21.01.56:124][189]LogBlueprintUserMessages: [MainCharacter_C_0] A Down
+[2020.12.15-21.01.57:278][255]LogScript: Warning: Infinite script recursion (250 calls) detected - see log for stack trace
+	MainCharacter_C /Game/Levels/UEDPIE_0_Level34.Level34:PersistentLevel.MainCharacter_C_0
+	Function /Game/Level_Sprites/Character/MainCharacter.MainCharacter_C:ExecuteUbergraph_MainCharacter:0000
+[2020.12.15-21.01.57:278][255]PIE: Error: Infinite loop detected. Blueprint:  MainCharacter Function:  Reset Call Stack:  Show
+[2020.12.15-21.01.57:371][255]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.15-21.01.57:371][255]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level34
+[2020.12.15-21.01.57:371][255]LogWorld: UWorld::CleanupWorld for Level34, bSessionEnded=true, bCleanupResources=true
+[2020.12.15-21.01.57:398][255]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.15-21.01.57:407][255]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.15-21.01.57:410][255]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.15-21.01.57:455][255]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.15-21.01.57:457][255]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001B80579DE40), frame # 35255
+[2020.12.15-21.01.57:457][255]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001B80B763200), frame # 35255
+[2020.12.15-21.01.57:459][255]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2020.12.15-21.01.57:703][256]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2020.12.15-21.02.54:512][635]BlueprintLog: New page: Compile MainCharacter
+[2020.12.15-21.02.54:578][635]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2020.12.15-21.02.55:223][658]LogSavePackage: Moving '../../../../../../Users/tomja/Documents/Game-Development-Module/Side_Scroller - Tom Jacobs/Saved/MainCharacter4B6269E84A7BD4F379AE63975E56E88B.tmp' to '../../../../../../Users/tomja/Documents/Game-Development-Module/Side_Scroller - Tom Jacobs/Content/Level_Sprites/Character/MainCharacter.uasset'
+[2020.12.15-21.02.55:240][658]AssetCheck: New page: Asset Save: MainCharacter
+[2020.12.15-21.02.55:241][658]LogContentValidation: Display: Validating Blueprint /Game/Level_Sprites/Character/MainCharacter.MainCharacter
+[2020.12.15-21.02.59:230][895]LogSlate: Window 'Message Log' being destroyed
+[2020.12.15-21.02.59:236][895]LogSlate: Window 'Message Log' being destroyed
+[2020.12.15-21.03.00:180][952]LogTemp: Repeating last play command: Selected Viewport
+[2020.12.15-21.03.00:205][952]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.12.15-21.03.00:206][952]PIE: New page: PIE session: Level34 (15 Dec 2020, 21:03:00)
+[2020.12.15-21.03.00:206][952]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level34
+[2020.12.15-21.03.00:211][952]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005279s)
+[2020.12.15-21.03.00:212][952]LogAIModule: Creating AISystem for world Level34
+[2020.12.15-21.03.00:212][952]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001B7C9D8D400), frame # 38952
+[2020.12.15-21.03.00:212][952]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001B803CD4B80), frame # 38952
+[2020.12.15-21.03.00:212][952]LogPlayLevel: PIE: World Init took: (0.001312s)
+[2020.12.15-21.03.00:212][952]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level34.Level34 to /Game/Levels/UEDPIE_0_Level34.Level34 (0.006752s)
+[2020.12.15-21.03.00:244][952]LogUObjectHash: Compacting FUObjectHashTables data took   3.18ms
+[2020.12.15-21.03.00:245][952]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.15-21.03.00:245][952]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.15-21.03.00:245][952]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.15-21.03.00:245][952]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.15-21.03.00:245][952]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.15-21.03.00:245][952]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.15-21.03.00:245][952]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.15-21.03.00:245][952]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.15-21.03.00:245][952]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.15-21.03.00:245][952]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.15-21.03.00:249][952]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.15-21.03.00:249][952]LogAudioMixer: Display: 1: FrontRight
+[2020.12.15-21.03.00:272][952]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2020.12.15-21.03.00:272][952]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.12.15-21.03.00:272][952]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.12.15-21.03.00:272][952]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.12.15-21.03.00:273][952]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.12.15-21.03.00:292][952]LogInit: FAudioDevice initialized.
+[2020.12.15-21.03.00:304][952]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.12.15-21.03.00:311][952]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level34.Level34 up for play (max tick rate 60) at 2020.12.15-21.03.00
+[2020.12.15-21.03.00:311][952]LogWorld: Bringing up level for play took: 0.006305
+[2020.12.15-21.03.00:312][952]LogOnline: OSS: Creating online subsystem instance for: :Context_5
+[2020.12.15-21.03.00:317][952]PIE: Server logged in
+[2020.12.15-21.03.00:318][952]PIE: Play in editor total start time 0.113 seconds.
+[2020.12.15-21.03.01:489][ 22]LogBlueprintUserMessages: [MainCharacter_C_0] A Down
+[2020.12.15-21.03.02:706][ 90]LogScript: Warning: Infinite script recursion (250 calls) detected - see log for stack trace
+	MainCharacter_C /Game/Levels/UEDPIE_0_Level34.Level34:PersistentLevel.MainCharacter_C_0
+	Function /Game/Level_Sprites/Character/MainCharacter.MainCharacter_C:ExecuteUbergraph_MainCharacter:0000
+[2020.12.15-21.03.02:706][ 90]PIE: Error: Infinite loop detected. Blueprint:  MainCharacter Function:  Reset Call Stack:  Show
+[2020.12.15-21.03.02:833][ 90]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.15-21.03.02:833][ 90]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level34
+[2020.12.15-21.03.02:833][ 90]LogWorld: UWorld::CleanupWorld for Level34, bSessionEnded=true, bCleanupResources=true
+[2020.12.15-21.03.02:885][ 90]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.15-21.03.02:899][ 90]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.15-21.03.02:906][ 90]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.15-21.03.02:986][ 90]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.15-21.03.02:988][ 90]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001B803CD4B80), frame # 39090
+[2020.12.15-21.03.02:988][ 90]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001B7C9D8D400), frame # 39090
+[2020.12.15-21.03.02:993][ 90]LogUObjectHash: Compacting FUObjectHashTables data took   3.91ms
+[2020.12.15-21.03.03:214][ 91]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2020.12.15-21.03.04:861][188]LogSlate: Window 'Message Log' being destroyed
+[2020.12.15-21.03.04:867][188]LogSlate: Window 'Message Log' being destroyed
+[2020.12.15-21.03.21:550][ 88]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Level1.Level1
+[2020.12.15-21.03.21:572][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2020.12.15-21.03.21:575][ 88]Cmd: MAP LOAD FILE="../../../../../../Users/tomja/Documents/Game-Development-Module/Side_Scroller - Tom Jacobs/Content/Levels/Level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.12.15-21.03.21:575][ 88]LightingResults: New page: Lighting Build
+[2020.12.15-21.03.21:576][ 88]LoadErrors: New page: Loading map: Level1.umap
+[2020.12.15-21.03.21:578][ 88]LogWorld: UWorld::CleanupWorld for Level34, bSessionEnded=true, bCleanupResources=true
+[2020.12.15-21.03.21:578][ 88]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.15-21.03.21:578][ 88]MapCheck: New page: Map Check
+[2020.12.15-21.03.21:578][ 88]LightingResults: New page: Lighting Build
+[2020.12.15-21.03.21:602][ 88]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001B7AB70F100), frame # 40088
+[2020.12.15-21.03.21:602][ 88]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001B79BE0A800), frame # 40088
+[2020.12.15-21.03.21:605][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2020.12.15-21.03.21:623][ 88]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.12.15-21.03.21:623][ 88]LogAIModule: Creating AISystem for world Level1
+[2020.12.15-21.03.21:623][ 88]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001B7AB700800), frame # 40088
+[2020.12.15-21.03.21:623][ 88]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001B8043165C0), frame # 40088
+[2020.12.15-21.03.21:652][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2020.12.15-21.03.21:681][ 88]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.12.15-21.03.21:681][ 88]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.148ms to complete.
+[2020.12.15-21.03.21:681][ 88]LogFileHelpers: Loading map 'Level1' took 0.106
+[2020.12.15-21.03.23:045][167]LogTemp: Repeating last play command: Selected Viewport
+[2020.12.15-21.03.23:062][167]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.12.15-21.03.23:062][167]PIE: New page: PIE session: Level1 (15 Dec 2020, 21:03:23)
+[2020.12.15-21.03.23:062][167]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level1
+[2020.12.15-21.03.23:067][167]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004895s)
+[2020.12.15-21.03.23:068][167]LogAIModule: Creating AISystem for world Level1
+[2020.12.15-21.03.23:068][167]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001B7AB6EB800), frame # 40167
+[2020.12.15-21.03.23:068][167]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001B803FA7740), frame # 40167
+[2020.12.15-21.03.23:068][167]LogPlayLevel: PIE: World Init took: (0.001084s)
+[2020.12.15-21.03.23:068][167]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level1.Level1 to /Game/Levels/UEDPIE_0_Level1.Level1 (0.006088s)
+[2020.12.15-21.03.23:090][167]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2020.12.15-21.03.23:091][167]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.15-21.03.23:091][167]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.15-21.03.23:091][167]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.15-21.03.23:091][167]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.15-21.03.23:091][167]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.15-21.03.23:091][167]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.15-21.03.23:091][167]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.15-21.03.23:091][167]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.15-21.03.23:092][167]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.15-21.03.23:092][167]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.15-21.03.23:095][167]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.15-21.03.23:095][167]LogAudioMixer: Display: 1: FrontRight
+[2020.12.15-21.03.23:112][167]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2020.12.15-21.03.23:112][167]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.12.15-21.03.23:112][167]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.12.15-21.03.23:112][167]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.12.15-21.03.23:113][167]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.12.15-21.03.23:128][167]LogInit: FAudioDevice initialized.
+[2020.12.15-21.03.23:137][167]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.12.15-21.03.23:142][167]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2020.12.15-21.03.23
+[2020.12.15-21.03.23:143][167]LogWorld: Bringing up level for play took: 0.004742
+[2020.12.15-21.03.23:143][167]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2020.12.15-21.03.23:147][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:149][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:149][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:150][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:151][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:151][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:152][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:153][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:153][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:154][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:154][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:155][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:156][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:156][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:158][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:158][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:159][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:160][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:160][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:161][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:162][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:163][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:163][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:164][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:165][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:165][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:166][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:167][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:167][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:168][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:169][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:170][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:170][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:171][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:172][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:173][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:173][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:174][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:175][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:176][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:177][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:177][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:178][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:179][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:180][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:181][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:182][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:182][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:183][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:184][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:185][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:186][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:187][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:188][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:188][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:189][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:190][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:191][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:192][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:193][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:194][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:195][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:196][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:197][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:198][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:199][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:200][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:201][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:202][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:203][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:204][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:206][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:207][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:208][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:209][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:210][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:211][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:213][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:214][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:215][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:216][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:217][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:219][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:220][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:221][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:223][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:224][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:225][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:226][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:228][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:229][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:230][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:232][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:233][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:235][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:236][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:238][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:239][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:240][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:242][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:243][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:245][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:246][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:249][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:250][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:251][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:253][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:255][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:256][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:258][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:260][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:262][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:264][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:265][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:267][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:269][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:271][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:273][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:274][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:276][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:278][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:280][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:282][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:284][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:286][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:288][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:291][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:293][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:295][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:297][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:300][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:303][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:305][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:307][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:310][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:312][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:314][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:317][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:319][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:322][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:324][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:327][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:329][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:336][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:339][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:342][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:346][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:349][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:352][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:354][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:357][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:360][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:363][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:365][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:368][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:371][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:374][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:377][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:381][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:384][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:387][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:390][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:393][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:396][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:399][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:402][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:405][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:409][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:413][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:417][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:420][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:424][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:427][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:430][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:434][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:437][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:441][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:444][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:448][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:452][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:455][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:459][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:462][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:466][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:470][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:474][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:477][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:481][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:485][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:489][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:493][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:497][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:501][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:505][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:509][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:514][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:521][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:525][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:530][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:534][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:538][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:542][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:547][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:552][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:556][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:568][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:573][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:577][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:583][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:587][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:592][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:597][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:602][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:606][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:611][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:615][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:621][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:626][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:631][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:635][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:640][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:645][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:651][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:658][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:663][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:668][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:673][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:678][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:683][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:688][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:694][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:699][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:705][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:710][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:715][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:720][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:726][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:732][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:738][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:744][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:749][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:755][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:761][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:767][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:772][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:778][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:785][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:791][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:797][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:804][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:811][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:817][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:824][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:831][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:838][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:845][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:852][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:860][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:866][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:872][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:879][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:885][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:892][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:899][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:905][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:912][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:919][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:926][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:933][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:940][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:947][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:954][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:961][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:969][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:976][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:983][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:990][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.23:997][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.24:004][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.24:011][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.24:019][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.24:026][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.24:034][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.24:041][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.24:049][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.24:056][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.24:067][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.24:075][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.24:083][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.24:091][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.24:113][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.24:121][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.24:129][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.24:137][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.24:145][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.24:154][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.24:164][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.24:172][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.24:180][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.24:190][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.24:198][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.24:207][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.24:215][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.24:224][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.24:232][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.24:241][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.24:249][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.24:258][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.24:267][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.24:276][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.24:285][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.24:294][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.24:303][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.24:313][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.24:322][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.24:331][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.24:341][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.24:350][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.24:359][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.24:369][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.24:378][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.24:388][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.24:397][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.24:407][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.24:416][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.24:426][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.24:436][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.24:446][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.24:456][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.24:466][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.24:476][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.24:486][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.24:496][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.24:506][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.24:516][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.24:527][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.24:537][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.24:547][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.24:557][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.24:568][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.24:578][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.24:589][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.24:600][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.24:611][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.24:622][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.24:633][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.24:643][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.24:654][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.24:665][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.24:675][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.24:686][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.24:698][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.24:709][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.24:720][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.24:732][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.24:743][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.24:755][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.24:767][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.24:779][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.24:791][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.24:804][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.24:816][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.24:828][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.24:840][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.24:852][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.24:866][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.24:878][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.24:890][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.24:903][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.24:915][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.24:928][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.24:943][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.24:956][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.24:970][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.24:983][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.24:996][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.25:009][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.25:022][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.25:035][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.25:048][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.25:061][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.25:075][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.25:088][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.25:102][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.25:115][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.25:129][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.25:147][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.25:160][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.25:174][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.25:188][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.25:202][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.25:215][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.25:228][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.25:243][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.25:256][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.25:271][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.25:285][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.25:299][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.25:314][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.25:328][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.25:344][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.25:358][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.25:374][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.25:390][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.25:404][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.25:419][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.25:434][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.25:450][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.25:492][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.25:508][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.25:530][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.25:546][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.25:562][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.25:577][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.25:594][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.25:609][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.25:625][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.25:640][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.25:655][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.25:671][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.25:687][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.25:702][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.25:717][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.25:733][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.25:751][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.25:767][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.25:783][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.25:799][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.25:815][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.25:832][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.25:848][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.25:864][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.25:880][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.25:898][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.25:914][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.25:931][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.25:947][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.25:964][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.25:981][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.25:998][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.26:017][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.26:034][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.26:051][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.26:069][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.26:086][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.26:103][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.26:122][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.26:139][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.26:158][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.26:175][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.26:193][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.26:210][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.26:228][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.26:246][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.26:264][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.26:282][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.26:299][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.26:317][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.26:336][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.26:354][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.26:373][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.26:391][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.26:410][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.26:429][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.26:447][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.26:466][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.26:486][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.26:505][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.26:526][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.26:546][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.26:565][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.26:584][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.26:603][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.26:622][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.26:643][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.26:662][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.26:684][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.26:705][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.26:727][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.26:747][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.26:767][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.26:787][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.26:808][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.26:828][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.26:848][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.26:869][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.26:889][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.26:909][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.26:931][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.26:952][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.26:973][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.26:996][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.27:018][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.27:039][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.27:059][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.27:080][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.27:101][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.27:121][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.27:143][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.27:165][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.27:186][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.27:208][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.27:230][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.27:251][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.27:274][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.27:295][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.27:317][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.27:339][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.27:361][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.27:383][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.27:405][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.27:427][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.27:449][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.27:471][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.27:493][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.27:518][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.27:541][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.27:564][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.27:588][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.27:612][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.27:634][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.27:658][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.27:682][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.27:705][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.27:729][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.27:752][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.27:776][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.27:801][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.27:824][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.27:849][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.27:873][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.27:897][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.27:922][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.27:947][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.27:972][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.27:998][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.28:024][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.28:051][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.28:077][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.28:104][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.28:131][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.28:157][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.28:185][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.28:213][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.28:239][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.28:267][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.28:294][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.28:319][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.28:344][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.28:368][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.28:395][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.28:421][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.28:447][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.28:474][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.28:530][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.28:586][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.28:629][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.28:666][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.28:700][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.28:732][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.28:762][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.28:793][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.28:829][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.28:865][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.28:901][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.28:937][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.28:966][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.29:009][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.29:037][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.29:114][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.29:141][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.29:167][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.29:194][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.29:222][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.29:250][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.29:279][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.29:308][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.29:336][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.29:364][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.29:393][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.29:424][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.29:466][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.29:497][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.29:527][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.29:559][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.29:589][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.29:618][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.29:648][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.29:679][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.29:710][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.29:744][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.29:777][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.29:808][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.29:839][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.29:870][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.29:900][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.29:943][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.29:989][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.30:030][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.30:068][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.30:105][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.30:142][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.30:181][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.30:220][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.30:255][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.30:294][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.30:334][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.30:373][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.30:405][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.30:438][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.30:471][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.30:506][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.30:542][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.30:575][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.30:609][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.30:646][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.30:680][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.30:717][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.30:762][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.30:819][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.30:858][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.30:897][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.30:933][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.30:969][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.31:013][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.31:056][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.31:097][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.31:140][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.31:185][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.31:227][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.31:268][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.31:310][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.31:355][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.31:398][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.31:441][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.31:483][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.31:528][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.31:570][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.31:613][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.31:656][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.31:698][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.31:741][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.31:785][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.31:828][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.31:873][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.31:917][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.31:960][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.31:994][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.32:030][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.32:065][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.32:102][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.32:140][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.32:178][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.32:215][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.32:255][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.32:293][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.32:330][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.32:369][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.32:407][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.32:444][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.32:482][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.32:519][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.32:556][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.32:592][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.32:628][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.32:664][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.32:703][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.32:739][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.32:775][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.32:812][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.32:849][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.32:886][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.32:925][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.32:963][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.33:000][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.33:039][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.33:076][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.33:114][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.33:152][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.33:191][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.33:231][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.33:271][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.33:312][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.33:352][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.33:392][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.33:433][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.33:475][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.33:516][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.33:557][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.33:603][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.33:646][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.33:686][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.33:728][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.33:772][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.33:811][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.33:851][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.33:891][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.33:931][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.33:972][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.34:013][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.34:053][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.34:095][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.34:136][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.34:178][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.34:223][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.34:265][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.34:307][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.34:348][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.34:391][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.34:433][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.34:477][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.34:523][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.34:569][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.34:614][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.34:662][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.34:704][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.34:747][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.34:790][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.34:831][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.34:873][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.34:920][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.34:965][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.35:009][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.35:053][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.35:100][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.35:145][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.35:188][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.35:233][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.35:277][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.35:322][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.35:366][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.35:413][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.35:457][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.35:503][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.35:548][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.35:594][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.35:643][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.35:687][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.35:732][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.35:780][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.35:847][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.35:891][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.35:937][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.35:984][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.36:031][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.36:078][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.36:127][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.36:172][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.36:219][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.36:265][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.36:312][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.36:359][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.36:408][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.36:457][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.36:503][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.36:551][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.36:598][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.36:645][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.36:694][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.36:741][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.36:792][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.36:843][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.36:891][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.36:940][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.36:988][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.37:038][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.37:088][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.37:139][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.37:189][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.37:237][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.37:286][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.37:337][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.37:387][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.37:438][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.37:487][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.37:538][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.37:588][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.37:639][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.37:687][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.37:738][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.37:788][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.37:838][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.37:888][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.37:939][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.37:987][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.38:039][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.38:092][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.38:143][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.38:196][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.38:247][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.38:299][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.38:422][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.38:474][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.38:525][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.38:577][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.38:630][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.38:687][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.38:747][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.38:809][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.38:871][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.38:933][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.38:994][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.39:050][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.39:111][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.39:209][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.39:266][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.39:341][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.39:409][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.39:492][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.39:571][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.39:653][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.39:731][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.39:805][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.39:871][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.39:937][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.40:002][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.40:098][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.40:162][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.40:234][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.40:298][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.40:363][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.40:429][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.40:497][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.40:566][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.40:630][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.40:695][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.40:763][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.40:829][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.40:895][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.40:961][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.41:030][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.41:100][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.41:171][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.41:241][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.41:310][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.41:371][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.41:452][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.41:538][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.41:599][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.41:664][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.41:732][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.41:816][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.41:879][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.41:943][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.42:010][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.42:078][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.42:144][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.42:214][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.42:286][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.42:355][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.42:417][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.42:481][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.42:556][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.42:626][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.42:694][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.42:761][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.42:831][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.42:904][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.42:975][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.43:041][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.43:113][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.43:189][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.43:257][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.43:346][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.43:415][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.43:485][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.43:562][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.43:637][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.43:712][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.43:785][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.43:861][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.43:941][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.44:042][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.44:118][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.44:194][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.44:273][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.44:344][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.44:418][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.44:509][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.44:592][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.44:678][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.44:778][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.44:917][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.45:044][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.45:190][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.45:274][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.45:377][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.45:465][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.45:536][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.45:610][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.45:678][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.45:751][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.45:828][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.45:924][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.46:011][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.46:142][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.46:274][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.46:391][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.46:477][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.46:557][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.46:632][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.46:705][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.46:787][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.46:861][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.46:935][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.47:009][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.47:091][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.47:164][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.47:239][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.47:320][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.47:393][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.47:465][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.47:543][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.47:617][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.47:688][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.47:769][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.47:847][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.47:921][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.47:996][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.48:081][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.48:162][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.48:245][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.48:330][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.48:414][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.48:499][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.48:584][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.48:673][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.48:756][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.48:844][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.48:926][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.49:012][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.49:089][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.49:175][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.49:259][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.49:345][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.49:430][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.49:513][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.49:596][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.49:683][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.49:763][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.49:850][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.49:939][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.50:025][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.50:132][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.50:217][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.50:306][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.50:389][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.50:474][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.50:558][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.50:646][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.50:733][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.50:819][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.50:906][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.51:000][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.51:084][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.51:170][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.51:255][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.51:348][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.51:438][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.51:531][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.51:623][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.51:717][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.51:814][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.51:913][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.52:030][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.52:125][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.52:256][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.52:372][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.52:489][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.52:605][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.52:713][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.52:810][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.52:904][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.53:016][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.53:113][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.53:225][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.53:338][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.53:441][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.53:531][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.53:615][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.53:707][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.53:793][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.53:885][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.53:977][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.54:068][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.54:165][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.54:256][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.54:349][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.54:434][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.54:517][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.54:600][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.54:690][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.54:775][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.54:864][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.54:963][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.55:060][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.55:155][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.55:252][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.55:351][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.55:448][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.55:546][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.55:653][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.55:751][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.55:849][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.55:948][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.56:046][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.56:150][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.56:252][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.56:357][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.56:456][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
+[2020.12.15-21.03.56:557][167]LogBlueprintUserMessages: [MainCharacter_C_0] Hello
